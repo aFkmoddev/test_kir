@@ -1,7 +1,7 @@
-# qroz_rubika_bot
+# api_bot_rubika
 
 
-for setting up write the your auth in the line 1482
+for setting line 1482
 
 and install library from the requierments.txt with:
 <html>
